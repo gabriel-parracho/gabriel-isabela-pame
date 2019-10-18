@@ -107,19 +107,14 @@
     text-decoration: underline;
 }
 
-.SimboloComentario{
+.Simbolo{
     height: 18.75px;
     width: 18.75px;
 }
 
-.QuantidadeComentario{
+.Quantidade{
     color: gray;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     margin-left: 10px;
-}
-
-.SimboloLike{
-    height: 18.75px;
-    width: 18.75px;
 }
