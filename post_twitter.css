@@ -118,3 +118,8 @@
     font-size: 15px;
     margin-left: 10px;
 }
+
+.Rodapé{
+    display: flex;
+    justify-content: space-between;
+}
