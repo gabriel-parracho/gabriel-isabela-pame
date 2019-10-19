@@ -1,5 +1,5 @@
 .Background{
-    height: 492.79px;
+    height: 450px;
     width: 598px;
     background-color: rgb(21, 32, 43);
     border-style: solid;
@@ -71,9 +71,9 @@
 }
 
 .setinha{
-    display: flex;
-    align-content: flex-end;
+    margin-left: 250px;
 }
+
 
 .DadosDoUsuario{
     display: flex;
